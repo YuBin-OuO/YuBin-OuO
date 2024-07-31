@@ -1,4 +1,4 @@
-### 👋 Hi there <br>
+### 👋 Hi, there <br>
 I'm YuBin Cho, <mark><b>a software developer</b></mark> with a keen interest in <b>Web</b> and <b>App development</b>👩🏻‍💻<br>
 
 I primarily enjoy working on the <mark><b>front-end</b></mark>, bringing designs to life and creating intuitive user interfaces,<br>
