@@ -2,9 +2,9 @@
 I'm YuBin Cho, <mark><b>a software developer</b></mark> with a keen interest in <b>Web</b> and <b>App development</b>👩🏻‍💻<br>
 
 I primarily enjoy working on the <mark><b>front-end</b></mark>, bringing designs to life and creating intuitive user interfaces,<br>
-but I'm also fully capable and open to diving deep into <mark><b>full-stack development roles</b></mark>🔥<br>
+but I'm also fully capable of and open to diving deep into <mark><b>full-stack development roles</b></mark>🔥<br>
 
-Nowadays, I'm interested in integrating <mark><b>AI</b></mark> functionality into my services🤖<br>
+Lately, I'm interested in integrating <mark><b>AI</b></mark> functionality into my services🤖<br>
 I aim to build smarter, more efficient applications that can offer enhanced capabilities and personalized experiences for users😎
 
 
