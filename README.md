@@ -3,14 +3,15 @@ I'm YuBin Cho, <mark><b>a software developer</b></mark> with a keen interest in 
 
 I primarily enjoy working on the <mark><b>front-end</b></mark>, bringing designs to life and creating intuitive user interfaces,<br>
 but I'm also fully capable and open to diving deep into <mark><b>full-stack development roles</b></mark>🔥<br>
-I enjoy the challenge of working across the entire stack, from the database to the user interface😎
+
+My goal is to develop services that not only meet users' needs but also enhance their overall experience😎
+
 
 <img src="https://github.com/user-attachments/assets/b3ebc3c4-fd14-454e-9368-93d060e4349f" alt="studying nongdamgom" width="110" align="left">
 <br>
 <br>
 &emsp;<i>About me 💬 (Coming Soon...)</i><br> 
 &emsp;<i>Portfolio 🌱 (Coming Soon...)</i><br><br>
-<!--I am passionate about creating <b>user-friendly services</b> that provide seamless experiences.<br>My goal is to develop services that not only meet users' needs but also enhance their overall experience😎-->
 
 
 
