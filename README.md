@@ -4,7 +4,8 @@ I'm YuBin Cho, <mark><b>a software developer</b></mark> with a keen interest in 
 I primarily enjoy working on the <mark><b>front-end</b></mark>, bringing designs to life and creating intuitive user interfaces,<br>
 but I'm also fully capable and open to diving deep into <mark><b>full-stack development roles</b></mark>🔥<br>
 
-My goal is to develop services that not only meet users' needs but also enhance their overall experience😎
+Nowadays, I'm interested in integrating <mark><b>AI</b></mark> functionality into my services🤖<br>
+I aim to build smarter, more efficient applications that can offer enhanced capabilities and personalized experiences for users😎
 
 
 <img src="https://github.com/user-attachments/assets/b3ebc3c4-fd14-454e-9368-93d060e4349f" alt="studying nongdamgom" width="110" align="left">
