@@ -1,19 +1,18 @@
 ## 👋 Hi, there! <br>
-<img src="https://github.com/user-attachments/assets/b3ebc3c4-fd14-454e-9368-93d060e4349f" alt="studying nongdamgom" width="220" align="right"/>
+<img src="https://github.com/user-attachments/assets/b3ebc3c4-fd14-454e-9368-93d060e4349f" alt="studying nongdamgom" width="110" align="left" style="padding: 10px; margin: 10px;"/>
 
-I'm YuBin Cho, <mark>a software developer</mark> with a keen interest in <mark>Web</mark> and <mark>App development</mark>👩🏻‍💻<br>
+&emsp;I'm YuBin Cho, <mark>a software developer</mark> with a keen interest in <mark>Web</mark> and <mark>App development</mark>.<br>
 
-I primarily enjoy working on the <mark>front-end</mark>, bringing designs to life and creating intuitive user interfaces,<br>
-but I'm also fully capable of and open to diving deep into <mark>full-stack development</mark> roles🔥<br>
+&emsp;I primarily enjoy working on the <mark>front-end</mark>, bringing designs to life and creating intuitive user interfaces,<br>
+&emsp;but I'm also fully capable of and open to diving deep into <mark>full-stack development</mark> roles.<br>
 
-Lately, I'm interested in integrating <mark>AI</mark> functionality into my services🤖<br>
-I aim to build smarter, more efficient applications that can offer enhanced capabilities and personalized experiences for users😎
+Lately, I'm interested in integrating <mark>AI</mark> functionality into my services.<br>
+I aim to build smarter, more efficient applications that can offer enhanced capabilities and personalized experiences for users.
 
-
+➡️
 <a href="https://sour-longan-4aa.notion.site/07b95891a655486886bd8230cd44e6c6?pvs=74">
     <img src="https://img.shields.io/badge/About me 🌱-FBF3DB?style=for-the-badge&logoColor=white" alt="About me 🌱" />
 </a>
-
 <!--
 
 <img src="https://github.com/user-attachments/assets/b3ebc3c4-fd14-454e-9368-93d060e4349f" alt="studying nongdamgom" width="107" align="left">
@@ -22,7 +21,6 @@ I aim to build smarter, more efficient applications that can offer enhanced capa
 &emsp;<i>Portfolio 🌱 (Coming Soon...)</i><br><br>
 -->
 
-<br>
 
 ## 🛠️ Skills
 #### 💻 Programming Languages
