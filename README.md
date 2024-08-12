@@ -7,7 +7,7 @@
 &emsp;but I'm also fully capable of and open to diving deep into <mark>full-stack development</mark> roles.<br>
 
 Lately, I'm interested in integrating <mark>AI</mark> functionality into my services.<br>
-I aim to build smarter, more efficient applications that can offer enhanced capabilities and personalized experiences for users.
+I aim to build smarter, more efficient applications that can offer enhanced capabilities and personalized experiences for users!
 
 ➡️
 <a href="https://sour-longan-4aa.notion.site/07b95891a655486886bd8230cd44e6c6?pvs=74">
